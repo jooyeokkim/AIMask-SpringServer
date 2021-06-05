@@ -64,6 +64,10 @@ section::after{
     font-size:70px;
 }
 
-#main-description{
+#main-description, #image-description{
     font-size:13px;
+}
+
+.mr-18{
+    margin-right: 18rem;
 }
